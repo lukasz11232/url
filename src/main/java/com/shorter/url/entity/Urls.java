@@ -1,4 +1,4 @@
-package com.shorter.url.repository;
+package com.shorter.url.entity;
 
 import jakarta.persistence.*;
 import lombok.*;
